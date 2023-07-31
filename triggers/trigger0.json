@@ -5,8 +5,7 @@
     "config": {
         "operation_types": [
             "INSERT",
-            "UPDATE",
-            "DELETE"
+            "UPDATE"
         ],
         "database": "sample_airbnb",
         "collection": "listingsAndReviews",
