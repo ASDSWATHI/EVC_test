@@ -4,6 +4,8 @@
     "type": "DATABASE",
     "config": {
         "operation_types": [
+            "INSERT",
+            "UPDATE",
             "DELETE"
         ],
         "database": "sample_airbnb",
