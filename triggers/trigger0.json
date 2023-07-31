@@ -4,8 +4,7 @@
     "type": "DATABASE",
     "config": {
         "operation_types": [
-            "INSERT",
-            "UPDATE"
+            "DELETE"
         ],
         "database": "sample_airbnb",
         "collection": "listingsAndReviews",
@@ -22,7 +21,7 @@
     "event_processors": {
         "FUNCTION": {
             "config": {
-                "function_name": "Atlas_Triggers_trigger0_1690352336"
+                "function_name": "Atlas_Triggers_trigger0_1690792443"
             }
         }
     }
